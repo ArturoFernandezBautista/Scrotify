@@ -30,18 +30,13 @@ Modern music streaming platform featuring Spotify & YouTube integration, AI play
 
 ### Backend
 - **Python & Flask** - Lightweight API server  
-- **PostgreSQL** - Stores user data like these favorites:  
-  <img src="photo_5942925314260846869_y.jpg" width="250" alt="Database-backed Favorites">
-  
+- **PostgreSQL** - Stores all user data.
 - **Docker** - Containerized services  
-- **Spotify/YouTube APIs** - Powering these integrations:  
-  <img src="photo_5942925314260846875_y.jpg" width="250" alt="Platform Integrations">
+- **Spotify/YouTube APIs** - Powering search engines.
 
 ### Frontend
 - **Vanilla JS** - No framework bloat  
-- **PWA Architecture** - Installable experience:  
-  <img src="photo_5942925314260846868_y.jpg" width="250" alt="PWA Install Prompt">
-  
+- **PWA Architecture** - Installable experience.
 - **MediaSession API** - Native OS controls
 
 ---
